@@ -3,6 +3,7 @@
 - 🤩 I’m always an adventurer
 - 😊 Pronouns: he/him/his
 - 📫 How to reach me: i.sajjadrad@gmail.com
+- 📟 My other account: https://github.com/sajjadrad
 
 <!---
 theredrad/theredrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
